@@ -1,5 +1,4 @@
-{
-  "services": [
+[
     {
       "title": "Vệ sinh máy lạnh",
       "imageUrl": "https://cdni.iconscout.com/illustration/premium/thumb/air-conditioning-repairing-and-installation-illustration-download-in-svg-png-gif-file-formats--engineer-ac-conditioner-maintenance-service-repair-pack-services-illustrations-4805630.png?f=webp"
@@ -28,5 +27,4 @@
       "title": "Sửa chữa tủ lạnh",
       "imageUrl": "https://static.vecteezy.com/system/resources/previews/021/774/931/non_2x/illustration-of-refrigerator-repair-vector.jpg"
     }
-  ]
-}
+]
