@@ -1,46 +1,55 @@
 {
   "priceList": [
     {
+      "id": 1,
       "title": "Tẩy Dàn Bằng Hóa Chất",
       "imageUrl": "https://media.loveitopcdn.com/5518/dich-vu-ve-sinh-may-lanh-quan-9-ban-nen-biet.png",
       "price": "Từ 100.000đ"
     },
     {
+      "id": 2,
       "title": "Vệ sinh máy lạnh treo tường",
       "imageUrl": "https://media.loveitopcdn.com/5518/dich-vu-ve-sinh-may-lanh-quan-9-ban-nen-biet.png",
       "price": "Từ 200.000đ"
     },
     {
+      "id": 3,
       "title": "Vệ sinh máy giặt",
       "imageUrl": "https://aquavietnam.com.vn/wp-content/uploads/2019/03/AQW-DR95CT-S-Front-1.png",
       "price": "Từ 180.000đ"
     },
     {
+      "id": 4,
       "title": "Sửa chữa tủ lạnh",
       "imageUrl": "https://e7.pngegg.com/pngimages/477/96/png-clipart-refrigerator-window-garage-doors-lg-electronics-refrigerator-kitchen-electronics-thumbnail.png",
       "price": "Từ 300.000đ"
     },
     {
+      "id": 5,
       "title": "Vệ sinh tủ lạnh",
       "imageUrl": "https://img.lovepik.com/free-png/20210922/lovepik-silver-refrigerator-png-image_401110922_wh1200.png",
       "price": "Từ 250.000đ"
     },
     {
+      "id": 6,
       "title": "Sửa chữa máy lạnh",
       "imageUrl": "https://img.lovepik.com/png/20230930/air-conditioning-effect-effects-products_32797_wh860.png",
       "price": "Từ 400.000đ"
     },
     {
+      "id": 7,
       "title": "Sửa chữa tivi",
       "imageUrl": "https://e7.pngegg.com/pngimages/676/866/png-clipart-panasonic-led-backlit-lcd-high-definition-television-1080p-smart-tv-smart-tv-purple-television-thumbnail.png",
       "price": "Từ 350.000đ"
     },
     {
+      "id": 8,
       "title": "Vệ sinh máy giặt lồng ngang",
       "imageUrl": "https://khothietke.net/wp-content/uploads/2021/04/PNGKhothietke.net-02242.png",
       "price": "Từ 220.000đ"
     },
     {
+      "id": 9,
       "title": "Vệ sinh máy lạnh âm trần",
       "imageUrl": "https://maylanhhailongvan.vn/upload/sanpham/m-tra%CC%80n-mitsubishi-electric-1-6734.png",
       "price": "Từ 500.000đ"
