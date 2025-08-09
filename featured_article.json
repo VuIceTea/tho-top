@@ -1,5 +1,4 @@
-{
-  "newsArticles": [
+[
     {
       "title": "Sai lầm khi sắp xếp thực phẩm trong tủ lạnh khiến vi khuẩn sinh sôi - Thợ Top",
       "imageUrl": "https://thotop.com/storage/media/posts/2025/08/06/f3koquaJk2r2CKOwKQs1fu8DnUqt4hGMZAijueu1.png",
@@ -54,14 +53,4 @@
       "category": "Dịch Vụ Thợ Top",
       "description": "Thợ Top cung cấp dịch vụ sửa chữa và bảo trì điện lạnh chuyên nghiệp với đội ngũ kỹ thuật viên giàu kinh nghiệm."
     }
-  ],
-  "newsCategories": [
-    "Tất cả",
-    "Dịch Vụ Thợ Top",
-    "Sửa Chữa Máy Giặt",
-    "Sửa chữa Tủ Lạnh",
-    "Sửa Chữa Máy Lạnh",
-    "Vệ sinh máy lạnh",
-    "Vệ sinh máy giặt"
-  ]
-}
+]
